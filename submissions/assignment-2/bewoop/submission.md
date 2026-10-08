@@ -20,7 +20,7 @@ How to use this template:
 
 - Section: III-ACSAD
 
-- IAM user name that I signed in with: acsad-06 
+- IAM user name that I signed in with: acsad-g06 
 
 
 - X: 149
